@@ -1,52 +1,45 @@
-> [!IMPORTANT] 
-> *Remove this section from your README.md after completing all setup tasks!*
-> - [x] Click the green "Use this template" button above.
-> - [x] Name your new repository and create it.
-> - [ ] Replace all the grey placeholder texts with your project-specific information.
->   
-> - [ ] Add any additional relevant Markdown documents to your documentation.
-> - [ ] Configure config.yml to fit your documentation sites purpose
-> - [x] Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages).
-> - [ ] **Remove this setup section from your README.md.**
->
-> *That's it! You are now set up, and your documentation site is live!*
+# Sandbox-samtale (ENG)
 
+This is the documentation repository for the OS2 samtale project
+In this documentation you will find both technical and non technical informations.
+The Documentation providet is partly in danish and Partly in english, in order to support both nativ speaking Danish endusers and non native speaking followers and supplyers.
 
-# Sandbox-samtale
-> This is the documentation repo for the sandbox-samtale PoC project
-> Replace this subtitle section with a clear statement defining the mission and goals of your project in a few simple terms.
+Main purpose of this repository is to provide the information needed in order for stakeholders to access Project and product information in a structured and easy to user manner.
 
-[How It Works](#🧭-how-it-works) | [Architecture](#architecture) | [ How to Install and Run](#▶️-how-to-install-and-run)
+As a result The structure is as follows:
+* Issues relaetd to design, development, maintenance and technical support is to be maid in english
+* Issues related to enduser information or roll out can be provided in danish
+* Documentation related to design, development, maintenance and technical support will be maid in english
+* Documentation related to Usage, tips &Tricks, project plans and stratgic roadmaps will be provided in Danish.
+When needed summary in the oppersit language will be provided. 
 
-## 🧭 How It Works
-> Replace with a brief, clear explanation of how the codebase works to achieve the stated mission objectives.
+### Issue trackers
+The project operates with the following Issue Trackers: 
 
-#### Architecture
+* Documentation: https://github.com/OS2sandbox/sandbox-samtale-documentation/issues
+* OS2 Samtale Technical Issues; https://github.com/OS2sandbox/sandbox-samtale/issues
+* OS2Adgang Technical Issues: https://github.com/OS2sandbox/os2adgang-deployment-template/issues
+* Indledende Planlægning af delelementet OS2Adgang: https://github.com/OS2sandbox/os2adgang-planning/issues
+ 
+# Sandbox-samtale (DA)
 
-> Replace with a Brief introduction to the project's high-level architecture. Link to the architecture documentation with a diagram preferably in mermaid syntax.
-[ARCHITECTURE.MD](./docs/ARCHITECTURE.MD)
+Her finder du dokumentationen for OS2 samtale projektet.
 
-#### Key Features
+I denne dokumentation vil du finde både tekniske og ikke-tekniske oplysninger. Dokumentationen er delvist på dansk og delvist på engelsk for at understøtte både danske slutbrugere og ikke-indrettede følgere og leverandører.
 
-> Replace this with a brief explaination of the main features or functionalities of your project.
+Hovedformålet med dette repository er at give den nødvendige information, så interessenter kan få adgang til projekt- og produktinformation på en struktureret og brugervenlig måde.
 
-## ▶️ How to Install and Run
-> Replace with clear, concise instructions on how to install and run the codebase for development, test and production setups. Link to repositories containing deployment templates that automates deployment
+Strukturen er som følger:  
 
-#### Setting up a development enviroment
-> Describe how to get a development enviroment up and running
+* Indberetninger (ISSUES) der relaterer sig til design, udvikling, vedligeholdelse og teknisk support skal håndteres på engelsk.
+* Indberetninger (ISSUES) der relaterer sig til slutbrugerinformation eller udrulning kan gives på dansk.
+* Dokumentation vedrørende design, udvikling, vedligeholdelse og teknisk support vil blive gjort på engelsk.
+* Dokumentation vedrørende brug, tips & tricks, projektplaner og strategiske vejkort vil blive leveret på dansk.
 
-#### Deploying to production
-> Describe the different deployment methods for the project. Please adhere to the deployment standards recommended by OS2 when describing how to get the project running in production.
+Når det er nødvendigt, vil der blive givet opsummeringer på det modsatte sprog.
 
-#### 
-
-## :star: Examples
-
-> Replace with examples demonstrating key functionality, code-snippets such as command-line usage, API calls or if needed screendumps
-
----
-
-*This project is licensed under the terms of the [LICENSE.md](LICENSE.md) | For contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md) | Contact: [maintainer usernames]()*
-
-
+### Issue tracker  (DA)
+* Documentation: https://github.com/OS2sandbox/sandbox-samtale-documentation/issues
+* OS2 Samtale Tekniske Issues; https://github.com/OS2sandbox/sandbox-samtale/issues
+* OS2Adgang Tekniske Issues: https://github.com/OS2sandbox/os2adgang-deployment-template/issues
+* Indledende Planlægning af delelementet OS2Adgang: https://github.com/OS2sandbox/os2adgang-planning/issues
