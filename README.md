@@ -1,9 +1,8 @@
 # Sandbox-samtale (ENG)
 
-This is the documentation repositpry for theOS2 samtale project
-In this documentation you will foind both technical and non technical informations.
+This is the documentation repository for the OS2 samtale project
+In this documentation you will find both technical and non technical informations.
 The Documentation providet is partly in danish and Partly in english, in order to support both nativ speaking Danish endusers and non native speaking followers and supplyers.
-
 
 Main purpose of this repository is to provide the information needed in order for stakeholders to access Project and product information in a structured and easy to user manner.
 
@@ -32,7 +31,6 @@ Hovedformålet med dette repository er at give den nødvendige information, så 
 
 Strukturen er som følger:  
 
-
 * Indberetninger (ISSUES) der relaterer sig til design, udvikling, vedligeholdelse og teknisk support skal håndteres på engelsk.
 * Indberetninger (ISSUES) der relaterer sig til slutbrugerinformation eller udrulning kan gives på dansk.
 * Dokumentation vedrørende design, udvikling, vedligeholdelse og teknisk support vil blive gjort på engelsk.
@@ -41,3 +39,7 @@ Strukturen er som følger:
 Når det er nødvendigt, vil der blive givet opsummeringer på det modsatte sprog.
 
 ### Issue tracker  (DA)
+* Documentation: https://github.com/OS2sandbox/sandbox-samtale-documentation/issues
+* OS2 Samtale Tekniske Issues; https://github.com/OS2sandbox/sandbox-samtale/issues
+* OS2Adgang Tekniske Issues: https://github.com/OS2sandbox/os2adgang-deployment-template/issues
+* Indledende Planlægning af delelementet OS2Adgang: https://github.com/OS2sandbox/os2adgang-planning/issues
