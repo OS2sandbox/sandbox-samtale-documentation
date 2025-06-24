@@ -42,3 +42,8 @@ defaults:
     values:
       layout: "default" # Use the default layout provided by the theme
       nav_exclude: false # Include in navigation
+
+# Enable mermaid support for diagrams
+mermaid:
+  version: "11.7.0"
+
