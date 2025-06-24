@@ -14,7 +14,7 @@ English version will follow but is not a priority at the moment
 
 --------------------------------
 
-# Project Introduktion
+# Projekt Introduktion
 
 Formålet med projektet er at etablere en kommunikations og vidensdelingsdelingsplatform for OS2's produktfællesskaber, som sikre at OS2's medlemmer kan kommunikere let, enkelt og effektivt med hinanden.
 
