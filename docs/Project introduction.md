@@ -1,6 +1,6 @@
 ---
 title: "Project Introduction"
-nav_order: 1 # Optional: Controls the order in the navigation
+nav_order: 2 # Optional: Controls the order in the navigation
 ---
 # 
 
