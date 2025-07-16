@@ -1,8 +1,9 @@
 ---
-title: Projekt introduktion
+title: "Vision og målsætning"
 layout: default
-nav_order: 3
-has_children: true
+parent: Projekt introduktion
+nav_order: 2
+
 ---
 
 ## Vision

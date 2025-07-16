@@ -1,6 +1,9 @@
 ---
 title: "Project Architecture"
-nav_order: 4 # Optional: Controls the order in the navigation
+layout: default
+parent: Projekt introduktion 
+nav_order: 3 # Optional: Controls the order in the navigation
+
 ---
 
 
