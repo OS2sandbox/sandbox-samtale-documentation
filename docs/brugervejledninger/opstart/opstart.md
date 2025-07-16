@@ -1,8 +1,9 @@
 ---
 title: Sådan kommer du igang med Os2Samtale
 layout: default
-parent: Velikmmen som bruger af Os2Samtale  
+parent: Brugervejledninger  
 nav_order: 1
+has_children: true
 ---
 
 ## Sådan kommer du i gang med OS2samtale
