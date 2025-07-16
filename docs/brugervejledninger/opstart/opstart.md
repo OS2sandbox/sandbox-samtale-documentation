@@ -1,16 +1,33 @@
 ---
-title: Velikmmen til OS2samtale
+title: Sådan kommer du igang med Os2Samtale
 layout: default
-parent: brugervejledninger  
+parent: Velikmmen som bruger af Os2Samtale  
 nav_order: 1
-has_children: true
 ---
 
-## Velkommen som bruger af OS2samtale
+## Sådan kommer du i gang med OS2samtale
 
-OS2Samtale er en organisationsspecifik samtaleplatform som er bygget op omkring  Authentic og Zulip, (to anerkendte og stabile open-source produkter)
+Det kræver følgende handling at komme i gang med at bruge OS2samtale
 
-- Adgangsrettigheder og kodeord håndteres af Authentic
-- samtalen faciliteres og administreres af Zulip
+1. Bed om at blive oprettet som bruger 
+2. Aktiver din konto
+3. Find de kanaler du gerne vil følge og tilmeld dig
+4. Tag del i samtalen
 
-Det er planen at Authentic med tiden skal integreres med  brugernes sædvanlige Identitets leverandører (IDP'er) som f.eks den fælleskommunale adgangsstyring,  men indtil det sker vil oprettelsen af brugerkonti og tildeling af kodeord ske manuelt. '
+Du har derudover følgende muligheder 
+
+1. Tilføj profilbillede 
+2. Juster din brugerprofil  
+3. Ændre kodeord
+4. Installer en skrivebords applikation
+5. Hent zulip ned på din telefon
+
+  
+Hvis du er Produktkoordinator, Product Owner eller Community manager for et OS2produkt har du derudover følgende muligheder:
+
+1. Blive oprettet som moderator af produktkanalerne
+2. Bestil standard produkt kanaler
+3. Bestil adgang til eksterne leverandører  og tekniske rådgivere
+4. Bestil adgang til medlemmerne af produktfællesskabet- incl produktets styre- og koordinationsgrupper
+
+Hvis du er Leverandør  skal du bede produktkoordinatoren for det produkt du er tilknyttet om at sørge for at du bliver oprettet som gæstebruger
