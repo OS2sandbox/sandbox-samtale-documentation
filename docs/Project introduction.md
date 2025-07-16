@@ -1,8 +1,4 @@
----
-title: "Project Introduction"
-nav_order: 2 # Optional: Controls the order in the navigation
----
-# 
+
 
 This document Provides an Introduction to the OS2 Samtale project in matter of
 * Vision, Mission & Goal
