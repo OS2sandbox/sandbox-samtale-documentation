@@ -1,7 +1,7 @@
 ---
 title: Velikmmen til OS2samtale
 layout: default
-parent: opstart  
+parent: brugervejledninger  
 nav_order: 1
 has_children: true
 ---
