@@ -1,6 +1,6 @@
 ---
 title: "Project Architecture"
-nav_order: 1 # Optional: Controls the order in the navigation
+nav_order: 4 # Optional: Controls the order in the navigation
 ---
 
 
