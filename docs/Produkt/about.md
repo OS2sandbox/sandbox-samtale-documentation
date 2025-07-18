@@ -2,7 +2,7 @@
 title: "Om OS2samtale"
 layout: default
 nav_order: 10
-has_children: true
+has_children: false
 ---
 
 ## Om OS2samtale

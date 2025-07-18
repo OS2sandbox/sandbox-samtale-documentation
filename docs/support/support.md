@@ -2,7 +2,7 @@
 title: "Fejfinding og support"
 layout: default
 nav_order: 5
-has_children: true
+has_children: false
 ---
 
 # Fejlfinding og support
