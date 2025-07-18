@@ -10,7 +10,7 @@ has_children: true
 
 ### Os2 samtale har følgende kommunikationskanaler
 
-Email: OS2Samtale@os2.eu. 
+Email: OS2samtale@os2.eu 
 
 Samtale Kanal : https://os2samtale.os2.eu/#narrow/channel/8-OS2Samtale
 
