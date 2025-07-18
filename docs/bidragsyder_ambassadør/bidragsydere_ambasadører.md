@@ -2,7 +2,7 @@
 title: "For frivillige bidragsydere"
 layout: default
 nav_order: 8
-has_children: true
+has_children: false
 ---
 # For frivillige bidragsydere
 
