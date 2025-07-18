@@ -1,8 +1,8 @@
 ---
 title: "Opret bruger"
 layout: default
-nav_order: 1
 Parent: For system administratorer
+nav_order: 1
 ---
 
 # Opret bruger
