@@ -1,7 +1,7 @@
 ---
 title: "Projektet bag OS2samtale"
 layout: default 
-nav_order: 11
+nav_order: 10
 has_children: true
 ---
 # Projektet bag OS2samtale

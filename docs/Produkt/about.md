@@ -1,7 +1,7 @@
 ---
 title: "Om OS2samtale"
 layout: default
-nav_order: 10
+nav_order: 9
 has_children: false
 ---
 

@@ -3,7 +3,6 @@ title: "Sådan bliver du oprettet som bruger"
 layout: default
 parent: Sådan bruger du OS2samtale  
 nav_order: 1
-has_children: true
 ---
 
 ## Sådan bliver du oprettet som bruger 
