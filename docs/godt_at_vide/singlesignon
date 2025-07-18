@@ -1,0 +1,8 @@
+---
+title: "Hvorfor er der ikke single sign on ?"
+layout: default
+nav_order: 
+parent: Godt at vide
+---
+
+Det er planen at Authentic med tiden skal integreres med  brugernes sædvanlige Identitets leverandører (IDP'er) som f.eks den fælleskommunale adgangsstyring,  men indtil det sker vil oprettelsen af brugerkonti og tildeling af kodeord ske manuelt. 

@@ -1,12 +1,12 @@
 ---
 title: Sådan bliver du oprettet som bruger
 layout: default
-parent: Brugervejledninger  
+parent: Sådan bruger du OS2samtale  
 nav_order: 1
 has_children: true
 ---
 
-## Sådan bliver du oprettet som bruger af 
+## Sådan bliver du oprettet som bruger 
 
 Det eneste der kræves for at blive oprettet som bruger af OS2samtale er at sende en mail til   
 OS2Samtale@os2.eu, hvor du skriver:
