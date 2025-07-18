@@ -23,7 +23,7 @@ has_children: true
 5. Hent zulip ned på din telefon
 
   
-### Hvis du er Produktkoordinator, Product Owner eller Community manager for et OS2produkt har du derudover følgende muligheder:
+### Hvis du er Produktkoordinator, Product Owner eller Community Manager i OS2 har du derudover følgende muligheder:
 
 1. Blive oprettet som moderator af produktkanalerne
 2. Bestil standard produkt kanaler

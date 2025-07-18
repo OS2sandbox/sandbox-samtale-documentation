@@ -1,7 +1,7 @@
 ---
-title: "KontaModeratorer og kanaladministratorerkt"
+title: "For moderatorer"
 layout: default
 nav_order: 6
 has_children: true
 ---
-# Moderatorer og kanal administratorer
+# For moderatorer
