@@ -1,9 +1,8 @@
 ---
 title: "Project Architecture"
 layout: default
-parent: Projekt introduktion 
-nav_order: 3 # Optional: Controls the order in the navigation
-
+parent: Projektet bag OS2samtale 
+nav_order: 2 # Optional: Controls the order in the navigation
 ---
 
 

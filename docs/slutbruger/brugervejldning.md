@@ -1,12 +1,12 @@
 ---
-title: Sådan kommer du igang med Os2Samtale
+title: Sådan bruger du OS2samtale
 layout: default
 parent: Brugervejledninger  
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
 
-## Sådan kommer du i gang med OS2samtale
+## Sådan brugerd du OS2samtale
 
 ### Det kræver følgende handling at komme i gang med at bruge OS2samtale
 

@@ -3,54 +3,34 @@ title: Home
 layout: home
 nav_order: 1
 ---
+#   Velkommen til den officielle vejledningsside til OS2samtale
 
+OS2samtale er en struktureret kommunikationsplatform, som understøtter samarbejde på tværs af OS2. Den gør vidensdeling let, overskuelig og fokuseret, så vi kan samarbejde smidigt og vidensbaseret i hele medlemskredsen.
 
-# OS2Samtale
+På OS2samtale kan du interagere med dine OS2-kollegaer via relevante kanaler, tilpasset jeres behov – for eksempel produktspecifikke, rollespecifikke eller emnebaserede kanaler.
 
-Her finder du dokumentationen for OS2samtale projektet.
+## Hvad finder du her?
 
-I denne dokumentation vil du finde både tekniske og ikke-tekniske oplysninger. Dokumentationen er delvist på dansk og delvist på engelsk for at understøtte både danske slutbrugere og udenlandske følgere og leverandører.
+Denne side indeholder brugermanualer og dokumentation – for eksempel:
 
-Hovedformålet med dette repository er at give den nødvendige information, så interessenter kan få adgang til projekt- og produktinformation på en struktureret og brugervenlig måde.
+- Hvordan du bruger OS2samtale i det daglige
+- Sådan bliver du oprettet som bruger
+- Fejlfinding og support
+- Information om projektet bag OS2samtale
+- Og meget mere
 
-Strukturen er som følger:  
+## Hvem er siden til?
 
-* Indberetninger (ISSUES) der relaterer sig til design, udvikling, vedligeholdelse og teknisk support skal håndteres på engelsk.
-* Indberetninger (ISSUES) der relaterer sig til slutbrugerinformation eller udrulning kan gives på dansk.
-* Dokumentation vedrørende design, udvikling, vedligeholdelse og teknisk support vil blive udarbejdet og formidlet på engelsk.
-* Dokumentation vedrørende brug, tips & tricks, projektplaner og strategiske planer vil blive udarbejdet og formidlet på dansk.
+Denne dokumentation er særligt relevant for dig, der er:
 
-Opsummeringer udarbejdes på begge sprog efter behov.
+- Slutbruger
+- Administrator eller moderator (eller gerne vil være det)
+- Frivillig bidragsyder eller ambassadør
+- Produktkoordinator, produktkonsulent eller community-manager
+- Systemadministrator
 
-### Issue tracker 
-* Documentation:[https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)
-* OS2samtale tekniske issues; [https://github.com/OS2sandbox/sandbox-samtale/issues](https://github.com/OS2sandbox/sandbox-samtale/issues)
-* OS2adgang tekniske issues: [https://github.com/OS2sandbox/os2adgang-deployment-template/issues](https://github.com/OS2sandbox/os2adgang-deployment-template/issues)
-* Indledende planlægning af delelementet OS2adgang: [https://github.com/OS2sandbox/os2adgang-planning/issues](https://github.com/OS2sandbox/os2adgang-planning/issues)
+## Klar til samtalen?
 
----
-###### OS2 – Offentligt digitaliseringsfællesskab ✉️ os2@os2.eu
-
----
-# OS2samtale (English version)
-
-This is the documentation repository for the OS2samtale project
-In this documentation you will find both technical and non technical informations.
-The Documentation providet is partly in danish and Partly in english, in order to support both nativ speaking Danish end users and non native speaking followers and supplyers.
-
-Main purpose of this repository is to provide the information needed in order for stakeholders to access project- and product information, structured and user-friendly.
-
-As a result the structure is as follows:
-* Issues relaetd to design, development, maintenance and technical support is to be maid in english
-* Issues related to enduser information or roll out can be provided in danish
-* Documentation related to design, development, maintenance and technical support will be maid in english
-* Documentation related to Usage, tips &Tricks, project plans and stratgic roadmaps will be provided in Danish.
-When needed summary in the oppersit language will be provided. 
-
-### Issue trackers
-The project operates with the following Issue Trackers: 
-
-* Documentation:[https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)
-* OS2 Samtale Technical Issues; [https://github.com/OS2sandbox/sandbox-samtale/issues](https://github.com/OS2sandbox/sandbox-samtale/issues)
-* OS2Adgang Technical Issues: [https://github.com/OS2sandbox/os2adgang-deployment-template/issues](https://github.com/OS2sandbox/os2adgang-deployment-template/issues)
-* Indledende Planlægning af delelementet OS2Adgang: [https://github.com/OS2sandbox/os2adgang-planning/issues](https://github.com/OS2sandbox/os2adgang-planning/issues)
+Samtalen er allerede i gang – og hvis du er en del af OS2, byder vi dig velkommen med det samme. Vi anbefaler, at du starter med at orientere dig i materialet her på siden. Så er du godt klædt på til at deltage aktivt i OS2samtale.  
+  
+Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)
