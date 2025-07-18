@@ -1,8 +1,8 @@
 ---
 title: "Code of Conduct"
 layout: default
-nav_order: 1
 parent: Gode vaner og etikette
+nav_order: 1
 ---
 # Code of Conduct
 

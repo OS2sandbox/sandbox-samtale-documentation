@@ -1,5 +1,5 @@
 ---
-title: "For frivillige bidragsydere, superbrugere og Ambasadører"
+title: "For frivillige bidragsydere, superbrugere og ambasadører"
 layout: default
 nav_order: 8
 has_children: true

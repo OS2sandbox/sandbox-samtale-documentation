@@ -1,8 +1,8 @@
 ---
 title: "Roller og ansvar"
 layout: default
-nav_order: 2
 parent: Gode vaner og etikette
+nav_order: 2
 ---
 # Roller og ansvar
 
