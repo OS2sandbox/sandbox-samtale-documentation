@@ -1,8 +1,7 @@
 ---
-title: Sådan bruger du OS2samtale
+title: "Sådan bruger du OS2samtale"
 layout: default
-parent: Brugervejledninger  
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
