@@ -4,6 +4,7 @@ layout: default
 parent: Gode vaner og etikette
 nav_order: 2
 ---
+
 # Roller og ansvar
 
 Der opereres med fem  forskellige typer af roller i OS2samtale

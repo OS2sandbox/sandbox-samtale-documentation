@@ -1,9 +1,10 @@
 ---
 title: "For system administratorer"
-layout: default
+layout: default 
 nav_order: 7
 has_children: true
 ---
+
 # For system administratorer
 
 Som systemadministrator har du ansvaret for:
