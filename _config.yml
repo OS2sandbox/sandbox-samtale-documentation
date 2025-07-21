@@ -7,8 +7,9 @@ url: https://os2sandbox.github.io/sandbox-samtale-documentation/
 
 # Auxiliary links
 aux_links:
-  Samtale is using Zulip: https://zulip.readthedocs.io/en/latest/
-  Issue tracker på Github: https://github.com/OS2sandbox/sandbox-samtale
+  OS2samtale is using Zulip: https://zulip.readthedocs.io/en/latest/
+  OS2samtale Technical Issue tracker: https://github.com/OS2sandbox/sandbox-samtale
+  OS2samtale documentation issue tracker: https://github.com/OS2sandbox/sandbox-samtale-documentation/issues
 
 # Makes auxiliary links open in a new tab
 aux_links_new_tab: true
