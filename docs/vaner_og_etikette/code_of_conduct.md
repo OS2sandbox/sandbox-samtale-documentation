@@ -4,6 +4,7 @@ layout: default
 parent: Gode vaner og etikette
 nav_order: 1
 ---
+
 # Code of Conduct
 
 Der er endnu ikke udviklet en fælles code of conduct for alle anvendelse af platfoment, men blot nedfældet en række grundlæggende regler for god opførelse.
