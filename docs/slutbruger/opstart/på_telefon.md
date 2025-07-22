@@ -4,6 +4,7 @@ layout: default
 parent: Sådan bruger du OS2samtale  
 nav_order: 4
 ---
+
 # Sådan får du Zulip ned på din telefon
 
 - Download Zulip appen til din telefon 
