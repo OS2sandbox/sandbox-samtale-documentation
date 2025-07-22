@@ -32,6 +32,8 @@ has_children: true
 
 ### Hvis du er Leverandør  skal du bede produktkoordinatoren for det produkt du er tilknyttet om at sørge for at du bliver oprettet som gæstebruger
 
+Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)
+
 
 [telefon]: /docs/slutbruger/opstart/på_telefon.md
 [oprettelse]: /docs/slutbruger/opstart/oprettelse.md
