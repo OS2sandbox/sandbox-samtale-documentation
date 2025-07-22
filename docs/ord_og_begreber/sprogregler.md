@@ -13,3 +13,8 @@ Sprogreglerne i projektet er som flg:
 * **Brugervejledninger, tips & tricks, projektplaner og strategiske planer** vil blive udarbejdet og formidlet på **dansk**.
 * **Tekniske Indberetninger** (ISSUES) der relaterer sig til design, udvikling, vedligeholdelse og teknisk support håndteres på **engelsk**.
 * **Tekniskdokumentation** vedrørende arkitektur, design, udvikling, vedligeholdelse og teknisk support udarbejdes og formidles på **engelsk**.
+
+
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*

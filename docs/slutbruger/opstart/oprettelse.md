@@ -28,4 +28,8 @@ Når du har sendt en anmodning om at blive oprettet som bruger af OS2samtale vil
 NB! Administratorer har ikke mulighed for at se dit kodeord igen efter at det er sendt til dig.
 
 Hvis du ønsker det kan du herefter gå ind og ændre dit kodeord i Authentic - se "skift kodeord" for detaljer.
+
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*
   

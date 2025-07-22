@@ -32,3 +32,7 @@ Projektet har indtil vider været drevet ud fra et princip om frivillighed og eg
 Projektet står i Juli 2025  nu over for udfordringerne med at etablere de administrative rutiner, definere forvaltnings organisationen, samt at fastslå ejerskab og betalingsmodel  
 
 Den første del af løsningen er er pr 1 Juli 2025 anvendelse, men der er endnu ikke blevet etableret et solidt administrativt og operationel samarbejde med KOMBIT. 
+
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*
