@@ -2,9 +2,9 @@
 title: "For frivillige bidragsydere"
 layout: default
 nav_order: 8
-has_children: true
+has_children: false
 ---
-# For frivillige bidragsydere
+# **For frivillige bidragsydere**
 
 Alle brugere af OS2samtale opfordres til at bidrage aktivt til at gøre brugen af OS2samtale til en endnu bedre oplevelse.
 

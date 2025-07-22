@@ -4,17 +4,15 @@ layout: default
 nav_order: 13
 has_children: false
 ---
-# Kontakt
+# **Kontakt**
 
 
 
 ### Os2 samtale har følgende kommunikationskanaler
 
-Email: OS2samtale@os2.eu 
+- Email: OS2samtale@os2.eu 
+- OS2samtale Kanal : https://os2samtale.os2.eu/#narrow/channel/8-OS2Samtale
 
-Samtale Kanal : https://os2samtale.os2.eu/#narrow/channel/8-OS2Samtale
-
-  
 
 ### OS2samtale anvender flg. Github repositories/ issue trackers 
 

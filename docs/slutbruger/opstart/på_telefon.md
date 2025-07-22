@@ -1,11 +1,11 @@
 ---
-title: "Sådan får du zulip ned på din telefon"
+title: "Sådan får du OS2samtale på din telefon"
 layout: default
 parent: Sådan bruger du OS2samtale  
 nav_order: 4
 ---
 
-# Sådan får du Zulip ned på din telefon
+# **Sådan får du OS2samtale på din telefon**
 
 - Download Zulip appen til din telefon 
   - download til android: https://zulip.com/apps/android

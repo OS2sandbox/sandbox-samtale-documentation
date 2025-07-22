@@ -17,15 +17,20 @@ Du kan ændre dit kodeord i Authentic på følgende måde
 - __*HUSK at gemme dit kodeord et sikkert sted- da du ikke kan se det igen.*__
 
 
+***
 
-
-![Skift Kodeord](/assets/authentic_settings.png)
-
-
-
-
-![Åben Indstillinger](/assets/skift_PW.png/)
+![Skift Kodeord][settings]
 
 
 
-![Åben Indstillinger](/assets/Change_PW2.png/)
+
+![Åben Indstillinger][changePW1]
+
+
+
+![Åben Indstillinger][changePW2]
+
+
+[settings]: /assets/authentic_settings.png
+[changepw1]: /assets/skift_PW.png/
+[changePW2]: /assets/Change_PW2.png/

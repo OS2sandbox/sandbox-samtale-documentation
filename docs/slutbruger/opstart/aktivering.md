@@ -5,7 +5,7 @@ parent: Sådan bruger du OS2samtale
 nav_order: 2
 ---
 
-# Sådan aktiverer du din konto
+# **Sådan aktiverer du din konto**
 
 Når du har modtaget en mail fra OS2samtale@os2.eu med link til sikkert login til dit personlige kodeord kan du gå i gang med at brugeOS2samtale. 
 
