@@ -26,3 +26,6 @@ For produkt specifikke og tekniske detaljer henvises der til Zulips formelle dok
 - Du finder Zulip's installations guide her: https://zulip.com/help/desktop-app-install-guide
   
 
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*

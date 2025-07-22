@@ -20,3 +20,6 @@ OS2 Samtale projektet blev igangsat oktober 2023 ud fra en ønske om at etablere
 - At etablere en struktureret kommunikationsplatform der er understøtter samarbejde på tværs af medlemsorganisationer
 - At gøre vidensdeling nem og overskuelig og skaber et smidigt og videns-drevet samarbejde på tværs af medlemskredsen.
 
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*

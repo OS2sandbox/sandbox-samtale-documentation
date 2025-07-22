@@ -5,8 +5,9 @@ nav_order: 5
 has_children: false
 ---
 
-# Fejlfinding og support
-### Sådan tager du kntakt til supporten
+# **Fejlfinding og support**
+
+### Sådan får du kontakt med supporten
 - Supporfunktionen er åben hver fredag mellem 10 & 12
 - Spørgsmål til funktionalitet sendes til OS2samtale@os2.eu
 - Anmodning om personlig assistance stilles via OS2samtale@os2.eu
@@ -25,3 +26,8 @@ Brug hinanden på samtale chat til at dele viden tips og tricks – eller til at
 * Indledende planlægning af delelementet OS2adgang: [https://github.com/OS2sandbox/os2adgang-planning/issues](https://github.com/OS2sandbox/os2adgang-planning/issues)
 
 Du er også velkommen til at kontakte os på os2samtale@os2.eu eller https://os2samtale.os2.eu/#narrow/channel/8-OS2Samtale
+
+
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*

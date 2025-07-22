@@ -16,3 +16,8 @@ Opsummeringer udarbejdes på begge sprog efter behov.
 
 
 [sprogregler]: /docs/ord_og_begreber/sprogregler.md
+
+
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*

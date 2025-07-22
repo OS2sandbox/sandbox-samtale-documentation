@@ -1,11 +1,11 @@
 ---
-title: "Sådan får du zulip ned på dit skrivebord"
+title: "Sådan får du OS2samtale ned på dit skrivebord"
 layout: default
 parent: Sådan bruger du OS2samtale  
 nav_order: 3
 ---
 
-# **Sådan får du zulip ned på dit skrivebord**
+# **Sådan får du OS2samtale ned på dit skrivebord**
 
 - Download Zulip appen til din pc/ mac /linux platform
   - Download til Windows: https://zulip.com/apps/
@@ -15,3 +15,7 @@ nav_order: 3
 - Indtast brugernavn og kodeord
 
 TIPS: Du finder Zulip's installations guide her: https://zulip.com/help/desktop-app-install-guide
+
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*

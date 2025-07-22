@@ -34,3 +34,7 @@ Du kan ændre dit kodeord i Authentic på følgende måde
 [settings]: /assets/authentic_settings.png
 [changepw1]: /assets/skift_PW.png/
 [changePW2]: /assets/Change_PW2.png/
+
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*

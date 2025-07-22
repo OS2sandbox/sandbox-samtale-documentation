@@ -15,3 +15,8 @@ nav_order: 4
 - Indtast OS2Samtale.os2.eu som navnet på¨din zulip account ( add your Zulip account)
 - Vælg : Log ind med Authentic
 - Indtast navn og kodeord
+
+
+***
+
+*Har du rettelser eller forslag til indholdet på siden, kan du bidrage direkte via GitHub [https://github.com/OS2sandbox/sandbox-samtale-documentation/issues](https://github.com/OS2sandbox/sandbox-samtale-documentation/issues)*
