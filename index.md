@@ -3,7 +3,8 @@ title: Home
 layout: home
 nav_order: 1
 ---
-#   Velkommen til den officielle vejledningsside til OS2samtale
+Velkommen til den officielle vejledningsside til OS2samtale
+-
 
 OS2samtale er en struktureret kommunikationsplatform, som understøtter samarbejde på tværs af OS2. Den gør vidensdeling let, overskuelig og fokuseret, så vi kan samarbejde smidigt og vidensbaseret i hele medlemskredsen.
 
