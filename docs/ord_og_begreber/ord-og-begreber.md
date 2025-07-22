@@ -4,7 +4,7 @@ layout: default
 nav_order: 11
 has_children: true
 ---
-# Ord og begreber
+# **Ord og begreber**
 
 For at sikre transparens, tillid og samarbejde har vi beskrevet en række kernebegreber i forhold til hvad de dækker over og hvad de anvendes til.
 
