@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Godt at vide
+# **Godt at vide**
 
 Du vil opleve at der er funktioner i Zulip som du ikke har mulighed for at anvende, dette skyldes måden som vi har valgt at konfigurere OS2samtale på. 
 

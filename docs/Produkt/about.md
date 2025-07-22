@@ -5,7 +5,7 @@ nav_order: 9
 has_children: false
 ---
 
-## Om OS2samtale
+# **Om OS2samtale**
 
 OS2Samtale er en organisationsspecifik samtaleplatform som er bygget op omkring  Authentic og Zulip, (to anerkendte og stabile open-source produkter)
 

@@ -5,12 +5,12 @@ nav_order: 2
 has_children: true
 ---
 
-# Sådan bruger du OS2samtale
+# **Sådan bruger du OS2samtale**
 
 ### Det kræver følgende handling at komme i gang med at bruge OS2samtale
 
-1. Bed om at blive oprettet som bruger 
-2. Aktiver din konto
+1. Bed om at blive oprettet som bruger [*Sådan bliver du oprettet*][oprettelse]
+2. Aktiver din konto [*Sådan aktiverer du din konto*][aktivering]
 3. Find de kanaler du gerne vil følge og tilmeld dig
 4. Tag del i samtalen
 
@@ -18,9 +18,9 @@ has_children: true
 
 1. Tilføj profilbillede 
 2. Juster din brugerprofil  
-3. Ændre kodeord
-4. Installer en skrivebords applikation
-5. Hent zulip ned på din telefon
+3. Ændre kodeord [*Sådan ændrer du dit kodeord*][kodeord]
+4. Installer en skrivebords applikation [*Sådan får du OS2samtale på dit skrivebord][skrivebord]
+5. Hent Os2Samtale ned på din telefon  [*Sådan får du OS2samtale på din telefon*][telefon]
 
   
 ### Hvis du er Produktkoordinator, Product Owner eller Community Manager i OS2 har du derudover følgende muligheder:
@@ -31,3 +31,10 @@ has_children: true
 4. Bestil adgang til medlemmerne af produktfællesskabet- incl produktets styre- og koordinationsgrupper
 
 ### Hvis du er Leverandør  skal du bede produktkoordinatoren for det produkt du er tilknyttet om at sørge for at du bliver oprettet som gæstebruger
+
+
+[telefon]: /docs/slutbruger/opstart/på_telefon.md
+[oprettelse]: /docs/slutbruger/opstart/oprettelse.md
+[aktivering]: /docs/slutbruger/opstart/aktivering.md
+[kodeord]: /docs/slutbruger/konfiguration/ændre_kodeord.md
+[skrivebord]: /docs/slutbruger/opstart/på_skrivebordet.md
