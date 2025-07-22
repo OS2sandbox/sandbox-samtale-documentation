@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Sådan brugerd du OS2samtale
+# Sådan bruger du OS2samtale
 
 ### Det kræver følgende handling at komme i gang med at bruge OS2samtale
 
