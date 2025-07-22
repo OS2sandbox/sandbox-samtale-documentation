@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ------
 
-# Gode vaner og etikette
+# **Gode vaner og etikette**
 
 Der vil i løbet af 2025 blive etableret en fælles code of conduct for alle anvendelse af platfoment, etableret standardiserede roller og ansvarsområder og impementeret en ensartet kanalstuktur for alle produktfællesskaberne.
 
