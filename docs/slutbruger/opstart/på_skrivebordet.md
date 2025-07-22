@@ -4,6 +4,7 @@ layout: default
 parent: Sådan bruger du OS2samtale  
 nav_order: 3
 ---
+
 # Sådan får du zulip ned på dit skrivebord
 
 - Download Zulip appen til din pc/ mac /linux platform
