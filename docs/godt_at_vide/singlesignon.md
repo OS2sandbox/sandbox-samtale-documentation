@@ -1,11 +1,11 @@
 ---
-title: "Hvorfor skal jeg have et seperat kodeord?"
+title: "Hvorfor skal jeg have nyt kodeord?"
 layout: default
 parent: Godt at vide
 nav_order: 1
 ---
 
-# **Hvorfor skal jeg have et seperat kodeord ?**
+# **Hvorfor skal jeg have et nyt kodeord ?**
 
 Du kan desværre ikke bruge dit almindelige log in til at tilgå Os2Samtale.
 
