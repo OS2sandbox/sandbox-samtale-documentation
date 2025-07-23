@@ -22,11 +22,11 @@ Hver af disse grupper har specifikke attributter i relation til Hvem, Hvad, Hvor
   - Deltage i samtaler
   - Til og framelde sig kanaler
   - Starte private chats
-  - ændre pasword og justere egen brugerprofil
-  - ændre konfiguration på person niveay
-  - se alle medlemmer af OS2samtale
+  - Ændre pasword og justere egen brugerprofil
+  - Ændre konfiguration på person niveay
+  - Se alle medlemmer af OS2samtale
 - Rollen giver brugeren ansvar for 
-  - at opføre sig i hebnhold til gældende regler for god opførelse.
+  - At opføre sig i hebnhold til gældende regler for god opførelse.
    
 
 ### Gæster
@@ -34,8 +34,8 @@ Hver af disse grupper har specifikke attributter i relation til Hvem, Hvad, Hvor
 - Rollen tildeles på anmodning fra produkt koordinator eller koordiantionsgruppe.
 - - Adgangen tildeles kun efter invitation fra produktets koordinationsgruppe og gi Rollen giver brugeren mulighed for at 
   - Deltage i de samtaler de er inviterede til 
-  - starte private chats
-  - ændre pasword og justere egen brugerprofil
+  - Starte private chats
+  - Ændre pasword og justere egen brugerprofil
 - - Gæstebrugere kan identificeres ved at der står (gæst plus organisation) efter deres navn. 
 
 ### Moderatorer
