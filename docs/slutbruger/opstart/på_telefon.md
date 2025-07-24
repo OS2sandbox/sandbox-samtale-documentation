@@ -1,19 +1,23 @@
 ---
-title: "Sådan får du OS2samtale på din telefon"
+title: "Installer OS2samtale som app på telefon"
 layout: default
 parent: Sådan bruger du OS2samtale  
 nav_order: 4
 ---
 
-# **Sådan får du OS2samtale på din telefon**
+# **Sådan installerer du OS2samtale som app på din telefon**
+
+Med OS2samtale som app kan du følge med i samtaler direkte fra din telefon. 
+
+Sådan gør du:
 
   - Find Zulip i din appstore 
-  - download til android: https://zulip.com/apps/android
-  - download til https://zulip.com/apps/ios
+  - Download til android: https://zulip.com/apps/android
+  - Download til https://zulip.com/apps/ios
 - Download som anvist
 - Åben applikationen og klik på "add an account"
-- Indtast OS2Samtale.os2.eu som navnet på¨din zulip account ( add your Zulip account)
-- Vælg : Log ind med Authentic
+- Indtast OS2Samtale.os2.eu som navnet på din zulip account (add your Zulip account)
+- Vælg : Log ind med Authentik
 - Indtast navn og kodeord
 
 
