@@ -9,8 +9,8 @@ has_children: true
 
 ### Det kræver følgende handling at komme i gang med at bruge OS2samtale
 
-1. Bed om at blive oprettet som bruger [*Sådan bliver du oprettet*](oprettelse)
-2. Aktiver din konto [*Sådan aktiverer du din konto*](/docs/slutbruger/opstart/aktivering.md)
+1. Bed om at blive oprettet som bruger [*Sådan bliver du oprettet*](https://os2sandbox.github.io/sandbox-samtale-documentation/docs/slutbruger/opstart/oprettelse.html))
+2. Aktiver din konto [*Sådan aktiverer du din konto*](https://os2sandbox.github.io/sandbox-samtale-documentation/docs/slutbruger/opstart/aktivering.html)
 3. Find de kanaler du gerne vil følge og tilmeld dig
 4. Tag del i samtalen
 
@@ -19,7 +19,7 @@ has_children: true
 1. Tilføj profilbillede 
 2. Juster din brugerprofil  
 3. Ændre kodeord [*Sådan ændrer du dit kodeord*][kodeord]
-4. Installer en skrivebordsapplikation [*Sådan får du OS2samtale på dit skrivebord][skrivebord]
+4. Installer en skrivebordsapplikation [*Sådan får du OS2samtale på dit skrivebord](https://os2sandbox.github.io/sandbox-samtale-documentation/docs/slutbruger/opstart/p%C3%A5_skrivebordet.html)
 5. Installer OS2Samtale på din telefon  [*Sådan får du OS2samtale på din telefon*][telefon]
 
   
@@ -32,12 +32,6 @@ has_children: true
 
 ### Hvis du er leverandør, skal du bede produktkoordinator for det produkt, du er tilknyttet, om at sørge for, at du bliver oprettet som gæstebruger
 
-
-[telefon]: (/docs/slutbruger/opstart/på_telefon.md)
-[oprettelse]: /docs/slutbruger/opstart/oprettelse.md
-[aktivering]: /docs/slutbruger/opstart/aktivering.md
-[kodeord]: /docs/slutbruger/konfiguration/ændre_kodeord.md
-[skrivebord]: /docs/slutbruger/opstart/på_skrivebordet.md
 
 ***
 
