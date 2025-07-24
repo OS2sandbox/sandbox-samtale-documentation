@@ -9,8 +9,8 @@ has_children: true
 
 ### Det kræver følgende handling at komme i gang med at bruge OS2samtale
 
-1. Bed om at blive oprettet som bruger [*Sådan bliver du oprettet*][oprettelse]
-2. Aktiver din konto [*Sådan aktiverer du din konto*][aktivering]
+1. Bed om at blive oprettet som bruger [*Sådan bliver du oprettet*](oprettelse)
+2. Aktiver din konto [*Sådan aktiverer du din konto*](/docs/slutbruger/opstart/aktivering.md)
 3. Find de kanaler du gerne vil følge og tilmeld dig
 4. Tag del i samtalen
 
@@ -33,7 +33,7 @@ has_children: true
 ### Hvis du er Leverandør  skal du bede produktkoordinatoren for det produkt du er tilknyttet om at sørge for at du bliver oprettet som gæstebruger
 
 
-[telefon]: /docs/slutbruger/opstart/på_telefon.md
+[telefon]: (/docs/slutbruger/opstart/på_telefon.md)
 [oprettelse]: /docs/slutbruger/opstart/oprettelse.md
 [aktivering]: /docs/slutbruger/opstart/aktivering.md
 [kodeord]: /docs/slutbruger/konfiguration/ændre_kodeord.md
