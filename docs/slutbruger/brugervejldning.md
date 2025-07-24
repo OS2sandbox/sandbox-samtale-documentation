@@ -19,18 +19,18 @@ has_children: true
 1. Tilføj profilbillede 
 2. Juster din brugerprofil  
 3. Ændre kodeord [*Sådan ændrer du dit kodeord*][kodeord]
-4. Installer en skrivebords applikation [*Sådan får du OS2samtale på dit skrivebord][skrivebord]
-5. Hent Os2Samtale ned på din telefon  [*Sådan får du OS2samtale på din telefon*][telefon]
+4. Installer en skrivebordsapplikation [*Sådan får du OS2samtale på dit skrivebord][skrivebord]
+5. Installer OS2Samtale på din telefon  [*Sådan får du OS2samtale på din telefon*][telefon]
 
   
-### Hvis du er Produktkoordinator, Product Owner eller Community Manager i OS2 har du derudover følgende muligheder:
+### Hvis du er Produktkoordinator, Product Owner eller Community Manager i OS2 har du desuden følgende muligheder:
 
-1. Blive oprettet som moderator af produktkanalerne
-2. Bestil standard produkt kanaler
-3. Bestil adgang til eksterne leverandører  og tekniske rådgivere
-4. Bestil adgang til medlemmerne af produktfællesskabet- incl produktets styre- og koordinationsgrupper
+1. Bliv oprettet som moderator af produktkanaler
+2. Bestil standard produktkanaler
+3. Bestil OS2samtale-adgang til eksterne leverandører og tekniske rådgivere
+4. Bestil OS2samtale-adgang til medlemmerne af produktfællesskabet - herunder produktets styre- og koordinationsgrupper
 
-### Hvis du er Leverandør  skal du bede produktkoordinatoren for det produkt du er tilknyttet om at sørge for at du bliver oprettet som gæstebruger
+### Hvis du er leverandør, skal du bede produktkoordinator for det produkt, du er tilknyttet, om at sørge for, at du bliver oprettet som gæstebruger
 
 
 [telefon]: (/docs/slutbruger/opstart/på_telefon.md)
