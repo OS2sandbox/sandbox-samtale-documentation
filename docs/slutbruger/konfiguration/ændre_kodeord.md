@@ -1,13 +1,13 @@
 ---
-title: "Sådan ændrer du dit kodeord"
+title: "Skift kodeord"
 layout: default
 parent: Sådan bruger du OS2samtale  
 nav_order: 5
 ---
 
-# **Sådan ændrer du dit kodeord**
+# **Skift kodeord - sådan gør du**
 
-Du kan ændre dit kodeord i Authentic på følgende måde
+Du kan ændre dit kodeord i Authentik på følgende måde
 - Åben [https://authentik.os2samtale.open-public.org](https://authentik.os2samtale.open-public.org) i din browser
 - Indtast din mailaddresse
 - Indtast dit nuværende kodeord
