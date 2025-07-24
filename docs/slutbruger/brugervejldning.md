@@ -18,9 +18,9 @@ has_children: true
 
 1. Tilføj profilbillede 
 2. Juster din brugerprofil  
-3. Ændre kodeord [*Sådan ændrer du dit kodeord*][kodeord]
+3. Ændre kodeord [*Sådan ændrer du dit kodeord*](https://os2sandbox.github.io/sandbox-samtale-documentation/docs/slutbruger/konfiguration/%C3%A6ndre_kodeord.html)
 4. Installer en skrivebordsapplikation [*Sådan får du OS2samtale på dit skrivebord](https://os2sandbox.github.io/sandbox-samtale-documentation/docs/slutbruger/opstart/p%C3%A5_skrivebordet.html)
-5. Installer OS2Samtale på din telefon  [*Sådan får du OS2samtale på din telefon*][telefon]
+5. Installer OS2Samtale på din telefon  [*Sådan får du OS2samtale på din telefon*](https://os2sandbox.github.io/sandbox-samtale-documentation/docs/slutbruger/opstart/p%C3%A5_telefon.html)
 
   
 ### Hvis du er Produktkoordinator, Product Owner eller Community Manager i OS2 har du desuden følgende muligheder:
