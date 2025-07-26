@@ -18,22 +18,12 @@ Du kan ændre dit kodeord i Authentic på følgende måde
 
 
 ***
+![Skift Kodeord](/assets/authentic_settings.png)
 
-![Skift Kodeord][settings]
+![Åben Indstillinger](/assets/skift_PW.png)
 
+![Åben Indstillinger](/assets/Change_PW2.png)
 
-
-
-![Åben Indstillinger][changePW1]
-
-
-
-![Åben Indstillinger][changePW2]
-
-
-[settings]: /assets/authentic_settings.png
-[changepw1]: /assets/skift_PW.png/
-[changePW2]: /assets/Change_PW2.png/
 
 ***
 

@@ -1,5 +1,11 @@
+---
+title: "Opret bruger"
+layout: default
+parent: For system administratorer
+nav_order: 1
+---
 
-# Opret bruger
+# **Opret bruger**
 
 ```mermaid
 flowchart LR
