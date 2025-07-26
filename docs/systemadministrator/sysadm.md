@@ -2,7 +2,7 @@
 title: "For system administratorer"
 layout: default
 nav_order: 7
-has_children: false
+has_children: true
 ---
 
 # **For system administratorer**
