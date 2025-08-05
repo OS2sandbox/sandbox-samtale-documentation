@@ -8,7 +8,7 @@ nav_order: 1
 # **Sådan bliver du oprettet som bruger**
 
 Det eneste, det kræver at blive oprettet som bruger af OS2samtale, er at sende en mail til   
-[https://os2samtale.os2.eu/](https://os2samtale.os2.eu/), hvor du skriver:
+[os2samtale@os2.eu](mailto:os2samtale@os2.eu), hvor du skriver:
 
 - Hvem du er, og hvilken organisation du kommer fra
 - Din e-mailaddresse
