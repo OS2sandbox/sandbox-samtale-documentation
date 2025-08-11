@@ -7,7 +7,7 @@ nav_order: 5
 
 # **Skift kodeord - sådan gør du**
 
-Du kan ændre dit kodeord i Authentik på følgende måde
+Du kan ændre dit kodeord i OS²adgang på følgende måde
 - Åben [https://authentik.os2samtale.open-public.org](https://authentik.os2samtale.open-public.org) i din browser
 - Indtast din mailaddresse
 - Indtast dit nuværende kodeord
@@ -18,11 +18,11 @@ Du kan ændre dit kodeord i Authentik på følgende måde
 
 
 ***
-![Skift Kodeord](/assets/authentic_settings.png)
+![Skift Kodeord](../../../assets/authentic_settings.png)
 
-![Åben Indstillinger](/assets/skift_PW.png)
+![Åben Indstillinger](../../../assets/skift_PW.png)
 
-![Åben Indstillinger](/assets/Change_PW2.png)
+![Åben Indstillinger](../../../assets/Change_PW2.png)
 
 
 ***
