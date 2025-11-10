@@ -14,7 +14,7 @@ flowchart LR
 ## Klargør brugeroprettelse
 
 Når der er anmodet om oprettelse af en bruger skal du først og fremmest sikre dig at du har:
-- brugerens fuldenavn
+- brugerens fulde navn
 - brugerens email
 - brugerens tilknytning til OS2 (medlemsstatus/observatør/leverandør/m.v)
 - oplysning om hvilke produkt grupper brugeren skal tilknyttes
