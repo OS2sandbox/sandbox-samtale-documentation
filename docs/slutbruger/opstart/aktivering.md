@@ -25,4 +25,4 @@ Når du har modtaget en e-mail fra OS2samtale@os2.eu med link til dit personlige
 
 TIP: Husk at genne dit kodeord et sikkert sted med det samme, da det tilsendte link kun virker en gang og der ikke er nogen steder du kan se dit kodeord igen. Du kan ændre kodeordet, når du har aktiveret din brugerkonto.
 
-OBS: Du bliver først synlig som bruger, når du har aktiveret din konto. Andre brugere på OS2samtale kan først se dit navn, når du har aktiveret din btugerkonto.
+OBS: Du bliver først synlig som bruger, når du har aktiveret din konto. Andre brugere på OS2samtale kan først se dit navn, når du har aktiveret din brugerkonto.
