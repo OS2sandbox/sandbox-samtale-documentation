@@ -23,4 +23,4 @@ Hvilket betyder at de får mulighed for at være med til at sætte kursen for hv
 
 Det var planen at kommunale brugere skulle anvende den fælleskommunale adgangsstyring allerede ved produktlancieringe, men dette er desværre ikke muligt da der udestår et par administrative godkendelser, herunder gennemførelse af et NIS2 Audit. Vi forventer at FKA integrationen kommer i produktion i 4 kvartal af 2025. 
 
-![selebration](/assets/nyhed1.png)
+![selebration](../../../assets/nyhed1.png)
