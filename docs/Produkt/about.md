@@ -7,12 +7,12 @@ has_children: false
 
 # **Om OS2samtale**
 
-OS2Samtale er en organisationsspecifik samtaleplatform som er bygget op omkring  Authentic og Zulip, (to anerkendte og stabile open-source produkter)
+OS2Samtale er en organisationsspecifik samtaleplatform som er bygget op omkring  Authentik og Zulip, (to anerkendte og stabile open-source produkter)
 
-- Adgangsrettigheder og kodeord håndteres af Authentic
+- Adgangsrettigheder og kodeord håndteres af Authentik
 - samtalen faciliteres og administreres af Zulip
 
-Som almindelig bruger eller moderator af samtaler skal du ikke bruge Authentic til andet end at logge ind og evt ændre dit kodeord, da alt samtale og konfiguration foregår i Zulip.
+Som almindelig bruger eller moderator af samtaler skal du ikke bruge Authentik til andet end at logge ind og evt ændre dit kodeord, da alt samtale og konfiguration foregår i Zulip.
 
 
 ### Brugervejledninger og dokumentation
