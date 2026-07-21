@@ -9,7 +9,7 @@ nav_order: 1
 
 Du kan desværre ikke bruge dit almindelige log in til at tilgå Os2Samtale.
 
-Det er imidlertid planen at Authentic skal integreres med brugernes sædvanlige Identitets leverandører (IDP'er) som f.eks den fælleskommunale adgangsstyring,  men indtil det sker vil oprettelsen af brugerkonti og tildeling af kodeord ske manuelt. 
+Det er imidlertid planen at Authentik skal integreres med brugernes sædvanlige Identitets leverandører (IDP'er) som f.eks den fælleskommunale adgangsstyring,  men indtil det sker vil oprettelsen af brugerkonti og tildeling af kodeord ske manuelt. 
 
 **Kommunale brugere** skal kunne bruge deres fælleskommunale log in inden udgangen af 2025. Integrationen med FKA er allerede udviklet, men er desværre blokeret af igangværende NIS2 audit.
 
