@@ -3,7 +3,7 @@ title: Out of office
 layout: default
 parent: Mail skabeloner
 has children: false
-nav_order: 1
+nav_order: 2
 ---
 
 Tak for din henvendelse
